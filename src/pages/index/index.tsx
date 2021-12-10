@@ -1,7 +1,3 @@
-/*
- * @Description: 
- * @Date: 2020-09-08 16:02:32
- */
 import React, { Component } from 'react'
 import Taro from '@tarojs/taro'
 import { View, Text } from '@tarojs/components'
@@ -13,9 +9,7 @@ import './index.scss'
 
 export default class Index extends Component {
 
-  componentWillMount () {
-    console.log('改了aaa')
-  }
+  componentWillMount () { }
 
   componentDidMount () { }
 
