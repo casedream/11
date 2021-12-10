@@ -17,6 +17,7 @@ export default class Index extends React.Component {
     let u: undefined;
     let num: number = u
     console.log(naName, num, tom)
+    console.log('改了b文件')
   }
   
   render () {
